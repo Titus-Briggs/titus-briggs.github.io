@@ -75,7 +75,6 @@ For now, I'm more interested in building useful skills, working on interesting p
 
 This site is the record of that journey.
 
-
 # Contact Me
 
 <p>
