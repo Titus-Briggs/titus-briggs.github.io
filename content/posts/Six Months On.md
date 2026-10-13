@@ -40,78 +40,158 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
-(what image should I put here?)
+<img src="/images/showroom.webp" width="80%)">
+
+Reflecting on the development of my role and responsibilities so far.
 
 <!--more-->
 
+
+## Building on the Foundations
+
+In my last post, I broke down my role by process: how an idea becomes a product, how bundles are developed, launched and refined, and how different parts of the business fit together behind the scenes.
+
+A few months later, the day to day responsibilities are largely the same. The difference is the level of ownership they now involve.
+
+Rather than learning systems and supporting projects, I've increasingly found myself leading them. Whether that's developing new bundle concepts, influencing merchandising decisions, managing supplier relationships, protecting margins on key product ranges, or helping define systems that haven't even been built yet, the role hasn't changed direction so much as it has become deeper.
+
+The foundations are the same. The opportunities and responsibilities sitting on top of them have grown significantly.
+
+
 ## Bundles
 
-In my last entry, I outlined bundles as a key part of my role. That hasn't changed — what has changed is the quantity, quality, and execution behind them.
+In my last entry, I outlined the mechanics of bundle creation and the process behind taking an idea from concept to launch.
 
-**Add image of bundle here**
+The process itself hasn't changed, but my ability to spot opportunities and execute them has improved considerably.
 
-A good example is the [Apprentice Kit](https://www.sgs-engineering.com/sgs-mechanics-apprentice-tool-chest-kit?search_term=apprentice). I put this together end to end — idea, strategy, development, creation, merchandising — and it's a fair representation of where my strengths sit. It's genuinely one of the things I'm proud of, not because it's a flashy product, but because it works on both sides of the equation: it's real value for the customer, and it's performed well for the business, doing around £15,000 in its first two weeks at 55% margin.
+A recent example is the Apprentice Tool Chest Kit.
 
-It got noticed higher up too — the CEO mentioned he liked it, and Graphic Design ended up building an advert for it across product listing pages. Partly to promote the product itself, but also because it's a good example of cross-selling done well, and of the brand delivering quality at a lower price point.
+ [Apprentice Kit](https://www.sgs-engineering.com/sgs-mechanics-apprentice-tool-chest-kit?search_term=apprentice). 
 
-At the end of the day, it's just another listing on a website. But it's one of several bundles I've built that are performing this way, and each one is something I can point to and feel good about putting in front of a customer.
+
+**Add image of kit**
+
+
+At face value, it's just another product listing on the website. Behind the scenes, though, it represents the entire bundle development process working as intended. I identified the opportunity, defined the proposition, built the bundle structure, handled the commercial aspects, created the product, and merchandised it on the website.
+
+What makes it particularly satisfying is that it works from both perspectives. It provides genuine value to customers entering the trade while also delivering strong margins for the business. In its first few weeks, it generated approximately £15,000 in revenue at around 55% margin, validating both the concept and the execution behind it.
+
+The product attracted attention internally as well. The CEO highlighted it as a strong example of what SGS does well, and it was subsequently turned into a Product Listing Page advert by the Graphic Design team. Part of that was to promote the product itself, but it also served as a showcase for the breadth of products we offer and how effective cross-selling can be when done properly.
+
+Ultimately, it's only one product listing. However, it represents something that has become increasingly common in my role: identifying opportunities, taking ownership of their development, and delivering something that works for both the customer and the business.
+
 
 ## Merchandising
 
-Bundles aren't just about what gets built — a huge part of the job is what happens after: how they're merchandised, and whether that merchandising actually holds up against real customer behaviour.
+Bundles are only part of the story. What happens after a product is launched is often just as important as the product itself.
 
-SWS — our modular garage storage range — is the clearest example of this. Rather than pinning SKUs based on gut feel, I based the selections on customer behaviour analysis: which features, layouts, and models people were actually engaging with. The results back it up — 12 of the top 20 best-selling SKUs last month were pinned positions, and a promo on SWS10 gave an already strong performer an extra uplift on top of that.
+One area that has developed significantly for me is merchandising. Early on, it was largely about ensuring products appeared in the correct places and had the appropriate visibility. Increasingly, it's become about influencing how customers move through entire product ranges.
 
-**Add image of chart I have from presentation perhaps**
+SWS, our modular workshop storage range, is probably the clearest example of this.
 
-What's more interesting is what happened around the pinned SKUs, not just to them. Most of the remaining top sellers weren't random — they were adjacent variants of pinned products, things like SWSA022 pulling customers through to SWSA02, or SWSG004 leading to SWSG002. Customers were moving naturally from a pinned item to a related configuration, which told me the merchandising wasn't just working in isolation — it was shaping the whole customer journey through the range, guiding people toward the right SKU family rather than just the right SKU.
+Rather than selecting pinned products based on instinct, I based merchandising decisions on customer behaviour data. By analysing engagement patterns, sales performance, and browsing behaviour, I identified which storage configurations customers were naturally gravitating towards and prioritised those products accordingly.
 
-It's a small thing to get right, but it adds up — across just the SKUs shown here, that's over £72,000 in revenue in the last month (just accross the top 20 SKUs), with the majority of it flowing through the products we chose to prioritise.
+Add merchandising presentation chart here
 
-## Expanding Scope
+The results were encouraging. During the period analysed, 12 of the top 20 best-selling SKUs were products placed in pinned positions, while promotional activity on SWS10 provided additional uplift to an already strong performer.
 
-Bundles have been the clearest example of my role, but over the last few months I've also picked up responsibilities that sit closer to category management than product building — supplier negotiation, margin protection, and range ownership.
+What interested me most wasn't simply the performance of those individual products. Many of the remaining top sellers were closely related variants of the pinned SKUs. Customers weren't necessarily purchasing the exact products being promoted, but they were frequently entering a product family through a pinned item before moving to a configuration that better suited their needs.
 
-### Tetrosyl Range Expansion
+That behaviour suggested the merchandising strategy was doing more than increasing visibility. It was helping guide customers through the wider range and encouraging them towards the right solution.
 
-I led a range expansion with Tetrosyl, which meant more than just adding new lines. I had to define what we actually wanted from the range, then go directly to suppliers myself to check whether better pricing was available — rather than accepting existing terms as fixed. It's a different kind of work to bundle-building: less about structuring a product, more about shaping the commercial terms behind it.
+Across the top 20 SKUs alone, the products shown generated over £72,000 in revenue during the month analysed, with the majority of that performance coming from the products and product families we had deliberately prioritised.
 
-### Toolchest Pricing
 
-**Add screenshot of the spreadsheet as it is quite impressive**
+## Range Ownership
 
-Alongside the head of 'Buying', I've been working through price changes on the Toolchest range — worth mentioning that this range alone accounts for roughly 60-70% of SGS's profit for the year, so getting it right matters. Rising supply costs, driven by the conflict in the Middle East, meant going through the full range and weighing cost price against where each product sits in the line-up — base, top, hutch variations — to protect margin without pricing us out. It's the kind of work that doesn't show up on a website, but it's some of the highest-stakes work I do.
+One of the biggest developments over the last few months has been moving beyond individual products and into greater ownership of entire ranges.
+
+### Tetrosyl
+
+One example was a recent expansion of our Tetrosyl range.
+
+Unlike some of our larger categories, Tetrosyl doesn't represent a huge proportion of overall revenue and traditionally hasn't offered particularly strong margins. Despite that, it was an opportunity to take ownership of a range and make commercial decisions rather than simply execute them.
+
+This involved deciding which products should be introduced, contacting suppliers directly, discussing pricing and availability, and determining stock quantities before launch.
+
+The project was modest in scale compared to other areas of the business, but that's almost what made it significant. It represented the first time I'd been trusted to shape the direction of a category rather than simply build products within one.
 
 ### Socketry
 
-Socketry has been a different kind of project — less about a single decision, more about earning ownership through consistency. It had been something of a forgotten corner of the range, but as I put more work into it, people started coming to me for direction: what's changing, what's needed, timing. It's a small thing, but it's the clearest sign that this isn't just about doing tasks well — it's about becoming the person others rely on for a whole area. The range is selling well now.
+Still needs a tone shift and perhaps less stress on it but still, idea is there:
 
-### Rika RK40 Launch
+Socketry followed a slightly different path.
 
-**Add image of a SKU, also this section needs work**
+When the range was first being introduced, it was still finding its place within the business. New products were arriving, bundles needed creating, and much of the supporting work required to make the range successful on the website had yet to be done.
 
-Worth a mention alongside the range work above: the Rika RK40 40V power tool range was one of the bigger launches this period. I wasn't in charge of the range itself, but I merchandised it and built the bundles around it — different type of involvement to Tetrosyl or Toolchest, more supporting the launch than owning its direction, but still hands-on. It's a useful contrast to socketry, really: one range I stepped into and made mine, the other I contributed to within someone else's lead. Both matter, just differently.
+Because I was tasked with developing many of those areas, I naturally became closely involved with the category. I was building the bundles, tracking incoming products, planning future additions, and making sure everything was ready before stock even arrived. That included titles, descriptions, attributes, merchandising, and the wider product structure behind the scenes.
 
-## Looking Ahead - The New PIM
+As a result, I often found myself as the person people turned to when they needed information about the range. If someone wanted to know what was arriving, when it was landing, or how it would fit into the wider category, I was usually in the best position to answer because I'd been involved in preparing it from the ground up.
 
-The next big shift for me isn't something that's happened yet — it's something I'm helping shape before it does.
+The satisfying part is that much of that work is now done. The range is established, the bundles are live, and the underlying product data is in place. It largely sits on the website doing what it was designed to do: converting customers and generating sales.
 
-SGS is moving to a new PIM system, built for us by an external company, and I'm jointly responsible — alongside Emilia — for the direction it takes. Neither of us is doing the actual development, but we're the ones deciding what the system needs to do, what should change from how things work now, and which features actually matter once it's live. It's a different kind of input to anything I've described so far: less "build this," more "decide what gets built."
+That's often how ecommerce works. You spend months building the foundations, refining the details, and preparing for launch, then quietly move on to the next opportunity while the category continues performing in the background. Socketry has become one of those areas, which is probably a sign that the work was done properly in the first place.
 
-It's an odd position to be in this early — most of what I've written about so far is proof of work already done, results already landed. This is the opposite: no numbers yet, nothing live to point to. But being trusted to help set the direction of a system the whole business will run on says something about where I've landed at SGS, even before the switchover happens.
 
-There'll be a lot more to say here once it's actually in place — for now, it's the clearest sign of where things are heading next.
+### Tool Chest Pricing
 
-## Looking Ahead - Black Friday
+Alongside the Head of Buying, I've also been heavily involved in pricing reviews across the Tool Chest range.
 
-Right now, most of my focus is shifting to Black Friday prep. It's less about any single big decision and more about tightening everything that's already in motion — confirming stock arrival dates so we're not caught promoting products that haven't landed yet, and making sure attribution and merching are sharp enough that customers find their way to the right products once demand spikes.
+Add pricing spreadsheet image here
 
-It's a different rhythm to the rest of this post. Everything above has been about building something — a bundle, a range, a system's direction — and then reflecting on how it went. Black Friday is the opposite: it's preparation for a short, high-pressure window where all of that groundwork either holds up or it doesn't.
+This is one of the highest-stakes areas of the business, accounting for a significant proportion of SGS's overall profitability. Rising supplier costs created pressure on margins, meaning we needed to carefully review pricing across the range without undermining competitiveness.
 
-I expect there'll be plenty worth writing about once it's over — for now, this is where the next few weeks are going.
+The work involved balancing cost increases against existing product positioning, ensuring entry-level, mid-range, and premium products maintained logical separation while continuing to deliver acceptable margins.
+
+It's not particularly visible work. Customers won't notice the hundreds of decisions behind a pricing structure. However, those decisions can have a significant impact on profitability, making it some of the most commercially important work I've been involved in so far.
+
+
+## Shaping the Future: The New PIM
+
+The most significant project I'm involved with at the moment isn't live yet.
+
+SGS is currently transitioning to a new Product Information Management system, developed by an external company. While I'm not writing the software myself, I'm jointly responsible, alongside Emilia, for ensuring that the system ultimately meets the needs of the business.
+
+That responsibility goes far beyond simply providing feedback.
+
+We're helping define how workflows should operate, identifying missing functionality, reviewing progress against deadlines, testing features within the development environment, and ensuring the system is capable of supporting the business once it becomes operational.
+
+We're also beginning to take responsibility for internal adoption. As new functionality becomes available, we're testing processes, documenting requirements, and helping colleagues understand how the platform will eventually fit into their day-to-day work.
+
+It's a very different type of responsibility to anything I've written about before.
+
+Most of the projects in this post have clear outcomes: products launched, ranges expanded, revenue generated, margins protected.
+
+The PIM project is different because the value comes before the results. It's about helping shape the foundations that future work will sit on.
+
+In many ways, it's probably the clearest example of how my role has evolved. Six months ago I was learning how to use the current system. Today I'm helping define the one that will support the entire business moving forward.
+
+There will undoubtedly be much more to write about once the migration is complete, but for now it's one of the projects I'm most excited to be involved in.
+
+## Looking Ahead: Black Friday
+
+While much of this post reflects on work that's already been completed, most of my attention is now shifting towards Black Friday preparation.
+
+Success during Black Friday rarely comes from a single decision made during the event itself. It's the result of weeks of planning beforehand: stock forecasting, merchandising, promotional preparation, pricing checks, attribution updates, and ensuring customers can quickly find the products they're looking for when traffic begins to increase.
+
+It's a different kind of work to the projects above. Less visible perhaps, but equally important.
+
+By the time Black Friday arrives, most of the work that determines its success has already been done.
+
 
 ## The Engine Room
 
-Alongside all of this, there's a steady stream of work that doesn't make for its own story but keeps everything else running — refining attribution and categorisation, and setting up new products as stock comes in: pricing, titles, descriptions, positioning on the category page. It's not glamorous, but it's the baseline the bigger projects sit on top of, and it's worth acknowledging rather than pretending the job is only the headline stuff.
+Alongside all of these larger projects sits the work that doesn't naturally earn its own section.
 
+New products still need setting up. Categories still need maintaining. Pricing requires updating. Attributes need refining. Product pages need reviewing. Analytics need checking. 
+
+It's rarely the work people notice, but it's the foundation everything else sits on.
+
+Bundles, merchandising, range ownership, pricing strategy, and even the new PIM project all depend on getting those fundamentals right first.
+
+The interesting projects often get the attention, but the day-to-day operational work is what makes them possible.
+
+Looking back at my previous post, that's probably been the biggest difference over the last few months. The role itself hasn't changed dramatically. Instead, I've been trusted with greater ownership of the same processes I was already involved in.
+
+For me, that's been the most rewarding part of working at SGS so far, and it's what makes me excited about what comes next.
 

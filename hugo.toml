@@ -55,7 +55,7 @@ lightbox = true
 [params.home.profile]
   enable = true
   title = "Work | Projects | Learning"
-  subtitle = "Documenting projects and the work I do. Portfolio, blog, and digital notebook. Get in touch"
+  subtitle = "Portfolio, blog, and digital notebook. Get in touch"
   typeit = true
   social = true
   disclaimer = ""
