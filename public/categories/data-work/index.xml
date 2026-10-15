@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Work - Category - Titus Briggs</title>
-    <link>https://titus-briggs.github.io/categories/data-work/</link>
+    <link>http://localhost:1313/categories/data-work/</link>
     <description>Titus Briggs</description>
     <generator>Hugo 0.166.0 &amp; FixIt v0.4.0-alpha-20250704082734-193fd193</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 13 Jun 2026 12:23:44 +0100</lastBuildDate>
-    <atom:link href="https://titus-briggs.github.io/categories/data-work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/data-work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product Data Assistant</title>
-      <link>https://titus-briggs.github.io/posts/604a6dc/</link>
+      <link>http://localhost:1313/posts/604a6dc/</link>
       <pubDate>Sat, 13 Jun 2026 12:23:44 +0100</pubDate><author>briggstitus123@gmail.com (Titus Briggs)</author>
-      <guid>https://titus-briggs.github.io/posts/604a6dc/</guid>
-      <category domain="https://titus-briggs.github.io/categories/data-work/">Data Work</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/images/SGS_logo_copy.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;My Role and What I Do&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/604a6dc/</guid>
+      <category domain="http://localhost:1313/categories/data-work/">Data Work</category>
+      <description>&lt;img src=&#34;http://localhost:1313/images/SGS_logo_copy.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;My Role and What I Do&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sport Performance Data Analytics</title>
-      <link>https://titus-briggs.github.io/posts/5f0dded/</link>
+      <link>http://localhost:1313/posts/5f0dded/</link>
       <pubDate>Thu, 03 Jul 2025 10:10:14 +0100</pubDate><author>briggstitus123@gmail.com (Titus Briggs)</author>
-      <guid>https://titus-briggs.github.io/posts/5f0dded/</guid>
-      <category domain="https://titus-briggs.github.io/categories/data-work/">Data Work</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/images/nova_logo.png&#34; width=&#34;160%&#34;&gt;&#xA;&lt;p&gt;Nottingham | Aug 2023 to May 2024&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/5f0dded/</guid>
+      <category domain="http://localhost:1313/categories/data-work/">Data Work</category>
+      <description>&lt;img src=&#34;http://localhost:1313/images/nova_logo.png&#34; width=&#34;160%&#34;&gt;&#xA;&lt;p&gt;Nottingham | Aug 2023 to May 2024&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All Posts - Titus Briggs</title>
-    <link>https://titus-briggs.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Titus Briggs</description>
     <generator>Hugo 0.166.0 &amp; FixIt v0.4.0-alpha-20250704082734-193fd193</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 27 Sep 2026 16:23:06 +0100</lastBuildDate>
-    <atom:link href="https://titus-briggs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taking Greater Ownership</title>
-      <link>https://titus-briggs.github.io/posts/7332b79/</link>
+      <link>http://localhost:1313/posts/7332b79/</link>
       <pubDate>Sun, 27 Sep 2026 16:23:06 +0100</pubDate>
-      <guid>https://titus-briggs.github.io/posts/7332b79/</guid>
-      <category domain="https://titus-briggs.github.io/categories/reflections/">Reflections</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/images/showroom.webp&#34;&gt;&#xA;&lt;p&gt;Reflecting on how my role, responsibilities, and involvement across the business have developed over the past few months.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/7332b79/</guid>
+      <category domain="http://localhost:1313/categories/reflections/">Reflections</category>
+      <description>&lt;img src=&#34;http://localhost:1313/images/showroom.webp&#34;&gt;&#xA;&lt;p&gt;Reflecting on how my role, responsibilities, and involvement across the business have developed over the past few months.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Product Data Assistant</title>
-      <link>https://titus-briggs.github.io/posts/604a6dc/</link>
+      <link>http://localhost:1313/posts/604a6dc/</link>
       <pubDate>Sat, 13 Jun 2026 12:23:44 +0100</pubDate><author>briggstitus123@gmail.com (Titus Briggs)</author>
-      <guid>https://titus-briggs.github.io/posts/604a6dc/</guid>
-      <category domain="https://titus-briggs.github.io/categories/data-work/">Data Work</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/images/SGS_logo_copy.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;My Role and What I Do&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/604a6dc/</guid>
+      <category domain="http://localhost:1313/categories/data-work/">Data Work</category>
+      <description>&lt;img src=&#34;http://localhost:1313/images/SGS_logo_copy.jpg&#34; width=&#34;100%&#34;&gt;&#xA;&lt;p&gt;&lt;strong&gt;My Role and What I Do&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workflow</title>
-      <link>https://titus-briggs.github.io/posts/f0219b0/</link>
+      <link>http://localhost:1313/posts/f0219b0/</link>
       <pubDate>Sat, 21 Mar 2026 20:03:39 +0000</pubDate><author>briggstitus123@gmail.com (Titus Briggs)</author>
-      <guid>https://titus-briggs.github.io/posts/f0219b0/</guid>
-      <category domain="https://titus-briggs.github.io/categories/tools-and-systems/">Tools and Systems</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/images/doom_logo.png&#34; width=&#34;100%&#34;&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve taken the chance to reflect on the years I spent at Nottingham Trent University — and on the tools and systems that quietly shaped how I work today.&lt;/p&gt;&#xA;&lt;p&gt;More than anything, I&amp;rsquo;ve realised that &lt;strong&gt;good systems don&amp;rsquo;t just help your work, they change the way you work.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/f0219b0/</guid>
+      <category domain="http://localhost:1313/categories/tools-and-systems/">Tools and Systems</category>
+      <description>&lt;img src=&#34;http://localhost:1313/images/doom_logo.png&#34; width=&#34;100%&#34;&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve taken the chance to reflect on the years I spent at Nottingham Trent University — and on the tools and systems that quietly shaped how I work today.&lt;/p&gt;&#xA;&lt;p&gt;More than anything, I&amp;rsquo;ve realised that &lt;strong&gt;good systems don&amp;rsquo;t just help your work, they change the way you work.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sport Performance Data Analytics</title>
-      <link>https://titus-briggs.github.io/posts/5f0dded/</link>
+      <link>http://localhost:1313/posts/5f0dded/</link>
       <pubDate>Thu, 03 Jul 2025 10:10:14 +0100</pubDate><author>briggstitus123@gmail.com (Titus Briggs)</author>
-      <guid>https://titus-briggs.github.io/posts/5f0dded/</guid>
-      <category domain="https://titus-briggs.github.io/categories/data-work/">Data Work</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/images/nova_logo.png&#34; width=&#34;160%&#34;&gt;&#xA;&lt;p&gt;Nottingham | Aug 2023 to May 2024&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/5f0dded/</guid>
+      <category domain="http://localhost:1313/categories/data-work/">Data Work</category>
+      <description>&lt;img src=&#34;http://localhost:1313/images/nova_logo.png&#34; width=&#34;160%&#34;&gt;&#xA;&lt;p&gt;Nottingham | Aug 2023 to May 2024&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

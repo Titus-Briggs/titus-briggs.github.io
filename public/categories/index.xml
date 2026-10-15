@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Titus Briggs</title>
-		<link>https://titus-briggs.github.io/categories/</link>
+		<link>http://localhost:1313/categories/</link>
 		<description>Recent content in Categories on Titus Briggs</description>
 		<generator>Hugo</generator>
 		<language>en-uk</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Sun, 27 Sep 2026 16:23:06 +0100</lastBuildDate>
 		
-			<atom:link href="https://titus-briggs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Reflections</title>
-				<link>https://titus-briggs.github.io/categories/reflections/</link>
+				<link>http://localhost:1313/categories/reflections/</link>
 				<pubDate>Sun, 27 Sep 2026 16:23:06 +0100</pubDate>
-				<guid>https://titus-briggs.github.io/categories/reflections/</guid>
+				<guid>http://localhost:1313/categories/reflections/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Data Work</title>
-				<link>https://titus-briggs.github.io/categories/data-work/</link>
+				<link>http://localhost:1313/categories/data-work/</link>
 				<pubDate>Sat, 13 Jun 2026 12:23:44 +0100</pubDate>
-				<guid>https://titus-briggs.github.io/categories/data-work/</guid>
+				<guid>http://localhost:1313/categories/data-work/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tools and Systems</title>
-				<link>https://titus-briggs.github.io/categories/tools-and-systems/</link>
+				<link>http://localhost:1313/categories/tools-and-systems/</link>
 				<pubDate>Sat, 21 Mar 2026 20:03:39 +0000</pubDate>
-				<guid>https://titus-briggs.github.io/categories/tools-and-systems/</guid>
+				<guid>http://localhost:1313/categories/tools-and-systems/</guid>
 				<description></description>
 			</item>
 	</channel>
