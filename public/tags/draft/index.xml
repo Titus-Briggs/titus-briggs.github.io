@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Draft - Tag - Titus Briggs</title>
-    <link>https://titus-briggs.github.io/tags/draft/</link>
+    <link>http://localhost:1313/tags/draft/</link>
     <description>Titus Briggs</description>
     <generator>Hugo 0.166.0 &amp; FixIt v0.4.0-alpha-20250704082734-193fd193</generator>
     <language>en-uk</language>
     <lastBuildDate>Sun, 27 Sep 2026 16:23:06 +0100</lastBuildDate>
-    <atom:link href="https://titus-briggs.github.io/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Six Months On</title>
-      <link>https://titus-briggs.github.io/posts/7332b79/</link>
+      <title></title>
+      <link>http://localhost:1313/posts/7332b79/</link>
       <pubDate>Sun, 27 Sep 2026 16:23:06 +0100</pubDate>
-      <guid>https://titus-briggs.github.io/posts/7332b79/</guid>
-      <category domain="https://titus-briggs.github.io/categories/draft/">Draft</category>
-      <description>&lt;img src=&#34;https://titus-briggs.github.io/images/showroom.webp&#34; width=&#34;80%&#34;&gt;&#xA;&lt;p&gt;Reflecting on how my role, responsibilities, and involvement across the business have developed over the past few months.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/7332b79/</guid>
+      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <description>&lt;img src=&#34;http://localhost:1313/images/showroom.webp&#34; width=&#34;80%&#34;&gt;&#xA;&lt;p&gt;Reflecting on how my role, responsibilities, and involvement across the business have developed over the past few months.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
