@@ -6,8 +6,16 @@
     <description>Titus Briggs</description>
     <generator>Hugo 0.166.0 &amp; FixIt v0.4.0-alpha-20250704082734-193fd193</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 27 Sep 2026 16:23:06 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:04:24 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why This Website Exists</title>
+      <link>http://localhost:1313/posts/bbeeb3a/</link>
+      <pubDate>Thu, 15 Oct 2026 13:04:24 +0100</pubDate>
+      <guid>http://localhost:1313/posts/bbeeb3a/</guid>
+      <category domain="http://localhost:1313/categories/draft/">Draft</category>
+      <description>&lt;p&gt;A short reasoning behind this project&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Taking Greater Ownership</title>
       <link>http://localhost:1313/posts/7332b79/</link>
