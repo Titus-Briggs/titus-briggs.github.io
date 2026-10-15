@@ -1,54 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/7332b79/</loc>
+    <loc>https://titus-briggs.github.io/categories/</loc>
     <lastmod>2026-09-27T16:23:06+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://titus-briggs.github.io/</loc>
     <lastmod>2026-09-27T16:23:06+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/draft/</loc>
+    <loc>https://titus-briggs.github.io/posts/</loc>
     <lastmod>2026-09-27T16:23:06+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/draft/</loc>
+    <loc>https://titus-briggs.github.io/categories/reflections/</loc>
     <lastmod>2026-09-27T16:23:06+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://titus-briggs.github.io/posts/7332b79/</loc>
     <lastmod>2026-09-27T16:23:06+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/data-work/</loc>
+    <loc>https://titus-briggs.github.io/categories/data-work/</loc>
     <lastmod>2026-06-13T12:23:44+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/604a6dc/</loc>
+    <loc>https://titus-briggs.github.io/posts/604a6dc/</loc>
     <lastmod>2026-06-13T12:23:44+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/tools-and-systems/</loc>
+    <loc>https://titus-briggs.github.io/categories/tools-and-systems/</loc>
     <lastmod>2026-03-21T20:03:39+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/f0219b0/</loc>
+    <loc>https://titus-briggs.github.io/posts/f0219b0/</loc>
     <lastmod>2026-03-21T20:03:39+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/5f0dded/</loc>
+    <loc>https://titus-briggs.github.io/posts/5f0dded/</loc>
     <lastmod>2025-07-03T10:10:14+01:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://titus-briggs.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/tags/</loc>
   </url>
 </urlset>

@@ -5,7 +5,7 @@ date: 2026-09-27T16:23:06+01:00
 slug: 7332b79
 draft: false
 author:
-  name:Titus Briggs
+  name: Titus Briggs
   link:
   email:
   avatar:
