@@ -1,11 +1,11 @@
 ---
-title:Six Months On: Taking Greater Ownership
+title: "Six Months On: Taking Greater Ownership"
 subtitle:
 date: 2026-09-27T16:23:06+01:00
 slug: 7332b79
 draft:
 author:
-  name:
+  name:Titus Briggs
   link:
   email:
   avatar:
