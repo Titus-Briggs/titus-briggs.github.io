@@ -1,5 +1,5 @@
 ---
-title: Six Months On
+title: Six Months On: Taking Greater Ownership
 subtitle:
 date: 2026-09-27T16:23:06+01:00
 slug: 7332b79
@@ -40,158 +40,142 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
-<img src="/images/showroom.webp" width="80%)">
+<img src="/images/showroom.webp" width="80%">
 
-Reflecting on the development of my role and responsibilities so far.
+Reflecting on how my role, responsibilities, and involvement across the business have developed over the past few months.
 
 <!--more-->
 
 
 ## Building on the Foundations
 
-In my last post, I broke down my role by process: how an idea becomes a product, how bundles are developed, launched and refined, and how different parts of the business fit together behind the scenes.
+In my last post, I broke down my role by process: how an idea becomes a product, how bundles are developed, launched, and refined, and how different parts of the business fit together behind the scenes.
 
-A few months later, the day to day responsibilities are largely the same. The difference is the level of ownership they now involve.
+Six months later, the day-to-day responsibilities remain largely the same. The difference is the level of ownership they now involve.
 
-Rather than learning systems and supporting projects, I've increasingly found myself leading them. Whether that's developing new bundle concepts, influencing merchandising decisions, managing supplier relationships, protecting margins on key product ranges, or helping define systems that haven't even been built yet, the role hasn't changed direction so much as it has become deeper.
+Rather than simply learning systems and supporting projects, I've increasingly been taking the lead. Whether that's developing new bundle concepts, influencing merchandising decisions, managing supplier relationships, protecting margins across key product ranges, or helping define systems that haven't been built yet, my role hasn't changed direction so much as it has developed in depth.
 
-The foundations are the same. The opportunities and responsibilities sitting on top of them have grown significantly.
+The foundations remain the same, but the decisions, opportunities, and responsibilities built on top of them have grown considerably.
 
 
 ## Bundles
 
-In my last entry, I outlined the mechanics of bundle creation and the process behind taking an idea from concept to launch.
+One of the clearest examples of this development is the [Mechanic's Apprentice Tool Chest Kit](https://www.sgs-engineering.com/sgs-mechanics-apprentice-tool-chest-kit?search_term=apprentice).
 
-The process itself hasn't changed, but my ability to spot opportunities and execute them has improved considerably.
+<img src="/images/STKAP02.png">
 
-A recent example is the Apprentice Tool Chest Kit.
+At face value, it's another product listing on the website. Behind the scenes, however, it brings together the full bundle development process. I identified the opportunity, defined the proposition, built the bundle structure, handled the commercial considerations, created the product, and managed its merchandising on the website.
 
- [Apprentice Kit](https://www.sgs-engineering.com/sgs-mechanics-apprentice-tool-chest-kit?search_term=apprentice). 
+What makes it particularly satisfying is that the proposition works from both perspectives. It provides genuine value to customers entering the trade while delivering strong margins for the business.
 
+In its first few weeks, the kit generated approximately £15,000 in revenue, which provided encouraging evidence that the concept and its execution were working as intended.
 
-**Add image of kit**
+The product also attracted attention internally, with the CEO highlighting it as a strong example of what SGS does well. The Graphic Design team subsequently featured it in a Product Listing Page advert, as it showcased the breadth of our product offering while presenting a strong opportunity to cross-sell complementary products across the website.
 
+*Maybe cut this final paragraph*
 
-At face value, it's just another product listing on the website. Behind the scenes, though, it represents the entire bundle development process working as intended. I identified the opportunity, defined the proposition, built the bundle structure, handled the commercial aspects, created the product, and merchandised it on the website.
-
-What makes it particularly satisfying is that it works from both perspectives. It provides genuine value to customers entering the trade while also delivering strong margins for the business. In its first few weeks, it generated approximately £15,000 in revenue at around 55% margin, validating both the concept and the execution behind it.
-
-The product attracted attention internally as well. The CEO highlighted it as a strong example of what SGS does well, and it was subsequently turned into a Product Listing Page advert by the Graphic Design team. Part of that was to promote the product itself, but it also served as a showcase for the breadth of products we offer and how effective cross-selling can be when done properly.
-
-Ultimately, it's only one product listing. However, it represents something that has become increasingly common in my role: identifying opportunities, taking ownership of their development, and delivering something that works for both the customer and the business.
+The project is a good example of the type of work I enjoy most: identifying opportunities, developing commercially viable propositions, and taking ownership of their execution from concept through to launch. While the positive internal recognition was gratifying, the strongest measure of success has been the product's early commercial performance, which validated the original opportunity and encouraged me to continue pursuing similar commercial initiatives.
 
 
 ## Merchandising
 
-Bundles are only part of the story. What happens after a product is launched is often just as important as the product itself.
+One aspect of the role that has changed significantly is how I think about products on the website.
 
-One area that has developed significantly for me is merchandising. Early on, it was largely about ensuring products appeared in the correct places and had the appropriate visibility. Increasingly, it's become about influencing how customers move through entire product ranges.
+When I started, much of my focus was on the fundamentals: ensuring products were categorised correctly, had accurate titles and descriptions, and appeared in the right places on the site. While those responsibilities remain important, I now spend much more time considering how customers discover products and navigate a range.
 
-SWS, our modular workshop storage range, is probably the clearest example of this.
+Through working on category structures, merchandising, SEO, bundle creation and product positioning, I've developed a broader understanding of the customer journey. Rather than focusing solely on whether a product is visible, I now consider how customers are likely to find it, what information they need to make a decision, and how the surrounding products can help guide them towards the right solution.
 
-Rather than selecting pinned products based on instinct, I based merchandising decisions on customer behaviour data. By analysing engagement patterns, sales performance, and browsing behaviour, I identified which storage configurations customers were naturally gravitating towards and prioritised those products accordingly.
+One example was our Modular Storage range, where I used customer browsing behaviour and product performance data to guide merchandising decisions. This led to changes in category layouts and pinned product positions.
 
-Add merchandising presentation chart here
+<img src="/images/Pinned.png">
 
-The results were encouraging. During the period analysed, 12 of the top 20 best-selling SKUs were products placed in pinned positions, while promotional activity on SWS10 provided additional uplift to an already strong performer.
+This shift has given me greater influence over how ranges are presented across the website. Instead of simply maintaining product listings, I am increasingly involved in shaping how products are structured, prioritised and surfaced to customers, using both performance data and customer behaviour to inform those decisions.
 
-What interested me most wasn't simply the performance of those individual products. Many of the remaining top sellers were closely related variants of the pinned SKUs. Customers weren't necessarily purchasing the exact products being promoted, but they were frequently entering a product family through a pinned item before moving to a configuration that better suited their needs.
-
-That behaviour suggested the merchandising strategy was doing more than increasing visibility. It was helping guide customers through the wider range and encouraging them towards the right solution.
-
-Across the top 20 SKUs alone, the products shown generated over £72,000 in revenue during the month analysed, with the majority of that performance coming from the products and product families we had deliberately prioritised.
-
+I have found this aspect of the role particularly interesting, as it sits at the intersection of customer behaviour, product strategy and ecommerce performance. As my understanding of these areas has developed, so too has the scope of my involvement in them. It is an area I expect to continue developing further, both as my responsibilities grow and as I gain a deeper understanding of how customers interact with the website.
 
 ## Range Ownership
 
-One of the biggest developments over the last few months has been moving beyond individual products and into greater ownership of entire ranges.
+Another significant development has been moving beyond individual products and taking greater responsibility for entire ranges.
+
+This has involved different types of decision-making, from selecting products and working with suppliers to developing categories and protecting profitability across established product lines.
 
 ### Tetrosyl
 
 One example was a recent expansion of our Tetrosyl range.
 
-Unlike some of our larger categories, Tetrosyl doesn't represent a huge proportion of overall revenue and traditionally hasn't offered particularly strong margins. Despite that, it was an opportunity to take ownership of a range and make commercial decisions rather than simply execute them.
+<img src="/images/Tetrosyl.png">
 
-This involved deciding which products should be introduced, contacting suppliers directly, discussing pricing and availability, and determining stock quantities before launch.
+Compared with some of our larger categories, Tetrosyl represents a relatively small part of the business and has historically delivered modest margins. Despite this, I was given ownership of the range and responsibility for determining its future direction.
 
-The project was modest in scale compared to other areas of the business, but that's almost what made it significant. It represented the first time I'd been trusted to shape the direction of a category rather than simply build products within one.
+Rather than working to a predefined plan, I was responsible for evaluating the opportunity, identifying gaps within the portfolio, deciding which products should be introduced, and building the range proposal. This involved engaging directly with suppliers, discussing pricing and availability, assessing commercial viability, and recommending stock quantities ahead of launch.
+
+Once the proposal had been developed, I presented my recommendations for approval before moving forward with implementation.
+
+While the project was relatively small in scale, it represented an important step in my development. It was an opportunity to take ownership of a category, make commercially focused decisions, and influence what products SGS ultimately brought to market.
+
+More than anything, it demonstrated how my role has evolved from maintaining product information to taking a more active role in shaping the product ranges themselves.
 
 ### Socketry
 
-Still needs a tone shift and perhaps less stress on it but still, idea is there:
+The introduction of our Socketry range followed a slightly different path.
 
-Socketry followed a slightly different path.
+Unlike Tetrosyl, where I was given responsibility for developing an existing category, Socketry had already been ordered before my involvement. However, as the expected delivery date approached, much of the work required to prepare the range for launch was still outstanding.
 
-When the range was first being introduced, it was still finding its place within the business. New products were arriving, bundles needed creating, and much of the supporting work required to make the range successful on the website had yet to be done.
+I was initially asked to explore bundle opportunities within the range, but that quickly led to a much deeper involvement. Through building the bundles, I became familiar with the products, the incoming order and the expected delivery timeline. As a result, I often found myself acting as the main point of reference for updates, with managers regularly asking me about arrival dates, order contents and launch preparations.
 
-Because I was tasked with developing many of those areas, I naturally became closely involved with the category. I was building the bundles, tracking incoming products, planning future additions, and making sure everything was ready before stock even arrived. That included titles, descriptions, attributes, merchandising, and the wider product structure behind the scenes.
+While the products technically existed within our systems, much of the information needed to launch them properly had yet to be completed. I gathered additional product information, sourced dimensions, completed product listings and ensured the supporting data was in place. I also worked closely with the Graphic Design team, providing reference material and product information to help create imagery that accurately represented the contents of the various socket and foam insert sets.
 
-As a result, I often found myself as the person people turned to when they needed information about the range. If someone wanted to know what was arriving, when it was landing, or how it would fit into the wider category, I was usually in the best position to answer because I'd been involved in preparing it from the ground up.
+Alongside this, I continued developing bundles and worked with the Ecommerce team to ensure the range was positioned effectively ahead of launch.
 
-The satisfying part is that much of that work is now done. The range is established, the bundles are live, and the underlying product data is in place. It largely sits on the website doing what it was designed to do: converting customers and generating sales.
+What made the project particularly interesting was that I became involved long before the products arrived in the warehouse. By the time the first stock arrived, much of the groundwork had already been completed, allowing the range to go live quickly and with a far stronger foundation than it otherwise would have had. Looking back, it was probably the first time I had been involved so extensively in a product range before a single item had even been sold.
 
-That's often how ecommerce works. You spend months building the foundations, refining the details, and preparing for launch, then quietly move on to the next opportunity while the category continues performing in the background. Socketry has become one of those areas, which is probably a sign that the work was done properly in the first place.
+<img src="/images/SOCK180.png">
 
 
 ### Tool Chest Pricing
 
-Alongside the Head of Buying, I've also been heavily involved in pricing reviews across the Tool Chest range.
+Alongside the Head of Buying, I was heavily involved in a comprehensive review of our Tool Chest range.
 
-Add pricing spreadsheet image here
+[Add pricing spreadsheet image here]
 
-This is one of the highest-stakes areas of the business, accounting for a significant proportion of SGS's overall profitability. Rising supplier costs created pressure on margins, meaning we needed to carefully review pricing across the range without undermining competitiveness.
+This is one of SGS's most commercially important product categories, making even relatively small pricing decisions significant. Rising supplier costs, increasing import expenses and changing market conditions meant that much of the existing pricing structure needed revisiting.
 
-The work involved balancing cost increases against existing product positioning, ensuring entry-level, mid-range, and premium products maintained logical separation while continuing to deliver acceptable margins.
+Rather than reviewing products individually, we assessed the range as a whole. A tool chest cannot simply be priced according to its cost and target margin. Its position within the range also needs consideration. Moving one product can create issues elsewhere, narrowing the gap between ranges, undermining premium propositions or creating inconsistencies in the customer offering.
 
-It's not particularly visible work. Customers won't notice the hundreds of decisions behind a pricing structure. However, those decisions can have a significant impact on profitability, making it some of the most commercially important work I've been involved in so far.
+As a result, a significant amount of work went into understanding how individual products related to one another. We reviewed pricing hierarchies across the entire range, considered stockholding levels, assessed the effect of supplier cost increases and examined how future purchasing costs could impact margins. Decisions were often interconnected, with adjustments to one product requiring further changes elsewhere in order to maintain a logical structure.
+
+What I found particularly interesting was the degree to which pricing became a strategic exercise rather than a mathematical one. The challenge was rarely calculating a new selling price. It was understanding the wider consequences of that change and ensuring the overall range remained commercially coherent.
+
+It was one of the first projects where I was exposed to the commercial management of a major category at this level. While customers ultimately only see the final selling price, the process behind it involved detailed analysis and a considerable amount of discussion around the long-term direction of the range.
+
+<img src="/images/Range_Review.png">
 
 
 ## Shaping the Future: The New PIM
 
-The most significant project I'm involved with at the moment isn't live yet.
+The most significant project I'm involved in at the moment isn't live yet.
 
-SGS is currently transitioning to a new Product Information Management system, developed by an external company. While I'm not writing the software myself, I'm jointly responsible, alongside Emilia, for ensuring that the system ultimately meets the needs of the business.
+SGS is currently transitioning to a new Product Information Management (PIM) system and, alongside Emilia, I'm helping lead the business' involvement in its development.
 
-That responsibility goes far beyond simply providing feedback.
+Rather than waiting for a finished product, we're actively involved throughout the process. This includes reviewing new functionality, identifying gaps, testing features within the development environment, challenging proposed processes, and ensuring the platform supports the way SGS actually works.
 
-We're helping define how workflows should operate, identifying missing functionality, reviewing progress against deadlines, testing features within the development environment, and ensuring the system is capable of supporting the business once it becomes operational.
+My experience across bundles, product data, merchandising and range development has been particularly useful here. Having worked with the current systems on a daily basis, I'm able to identify where processes can be improved and where potential issues might emerge before the platform goes live.
 
-We're also beginning to take responsibility for internal adoption. As new functionality becomes available, we're testing processes, documenting requirements, and helping colleagues understand how the platform will eventually fit into their day-to-day work.
+What makes the project different from the others is that its impact won't be tied to a single product, category or commercial result. The decisions being made now will influence how product information is managed across the business for years to come.
 
-It's a very different type of responsibility to anything I've written about before.
-
-Most of the projects in this post have clear outcomes: products launched, ranges expanded, revenue generated, margins protected.
-
-The PIM project is different because the value comes before the results. It's about helping shape the foundations that future work will sit on.
-
-In many ways, it's probably the clearest example of how my role has evolved. Six months ago I was learning how to use the current system. Today I'm helping define the one that will support the entire business moving forward.
-
-There will undoubtedly be much more to write about once the migration is complete, but for now it's one of the projects I'm most excited to be involved in.
-
-## Looking Ahead: Black Friday
-
-While much of this post reflects on work that's already been completed, most of my attention is now shifting towards Black Friday preparation.
-
-Success during Black Friday rarely comes from a single decision made during the event itself. It's the result of weeks of planning beforehand: stock forecasting, merchandising, promotional preparation, pricing checks, attribution updates, and ensuring customers can quickly find the products they're looking for when traffic begins to increase.
-
-It's a different kind of work to the projects above. Less visible perhaps, but equally important.
-
-By the time Black Friday arrives, most of the work that determines its success has already been done.
+In many ways, it represents the clearest example of how my role has evolved. Half a year ago I was learning how to navigate our existing systems. Today, I'm helping define the requirements of the system that will eventually replace them.
 
 
 ## The Engine Room
 
-Alongside all of these larger projects sits the work that doesn't naturally earn its own section.
+Alongside these larger projects sits the day-to-day work that doesn't naturally earn its own section.
 
-New products still need setting up. Categories still need maintaining. Pricing requires updating. Attributes need refining. Product pages need reviewing. Analytics need checking. 
+New products still need setting up. Categories need maintaining. Prices change. Attributes need refining. Product pages need reviewing and performance needs monitoring.
 
-It's rarely the work people notice, but it's the foundation everything else sits on.
+It's not always the most visible work, but it's where much of my time is spent, and it's the foundation that everything else relies upon. The bundles, range reviews and larger projects discussed throughout this post only work because the underlying product data and processes are maintained properly.
 
-Bundles, merchandising, range ownership, pricing strategy, and even the new PIM project all depend on getting those fundamentals right first.
+Looking back, what stands out most isn't any individual project, but the variety of work I've been able to contribute to over the past few months. I've had opportunities to work on product launches, range development, pricing strategy, merchandising, supplier discussions and now the development of a completely new PIM system.
 
-The interesting projects often get the attention, but the day-to-day operational work is what makes them possible.
+Each project has presented different challenges, but together they've given me a much broader understanding of how the business operates and how the different departments contribute to getting products in front of customers.
 
-Looking back at my previous post, that's probably been the biggest difference over the last few months. The role itself hasn't changed dramatically. Instead, I've been trusted with greater ownership of the same processes I was already involved in.
-
-For me, that's been the most rewarding part of working at SGS so far, and it's what makes me excited about what comes next.
-
+With Black Friday preparations already underway and the PIM project continuing to gather momentum, the focus now shifts to the next set of challenges. I'm finding myself involved not only in the day-to-day operation of the website, but also in projects that will influence how we work in the future. That's a responsibility I've enjoyed taking on, and one I'm keen to continue developing as the business evolves.

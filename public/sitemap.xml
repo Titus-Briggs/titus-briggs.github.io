@@ -2,22 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://titus-briggs.github.io/categories/</loc>
-    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
+    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/categories/draft/</loc>
+    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/tags/draft/</loc>
+    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/</loc>
+    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/posts/</loc>
+    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/posts/7332b79/</loc>
+    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://titus-briggs.github.io/tags/</loc>
+    <lastmod>2026-09-27T16:23:06+01:00</lastmod>
   </url>
   <url>
     <loc>https://titus-briggs.github.io/categories/data-work/</loc>
     <lastmod>2026-06-13T12:23:44+01:00</lastmod>
   </url>
   <url>
-    <loc>https://titus-briggs.github.io/posts/</loc>
-    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
-  </url>
-  <url>
     <loc>https://titus-briggs.github.io/posts/604a6dc/</loc>
-    <lastmod>2026-06-13T12:23:44+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://titus-briggs.github.io/</loc>
     <lastmod>2026-06-13T12:23:44+01:00</lastmod>
   </url>
   <url>
@@ -34,8 +50,5 @@
   </url>
   <url>
     <loc>https://titus-briggs.github.io/about/</loc>
-  </url>
-  <url>
-    <loc>https://titus-briggs.github.io/tags/</loc>
   </url>
 </urlset>
