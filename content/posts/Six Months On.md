@@ -40,7 +40,7 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 
-<img src="/images/showroom.webp" width="80%">
+<img src="/images/showroom.webp">
 
 Reflecting on how my role, responsibilities, and involvement across the business have developed over the past few months.
 
