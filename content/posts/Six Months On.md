@@ -132,8 +132,6 @@ What made the project particularly interesting was that I became involved long b
 
 Alongside the Head of Buying, I was heavily involved in a comprehensive review of our Tool Chest range.
 
-[Add pricing spreadsheet image here]
-
 This is one of SGS's most commercially important product categories, making even relatively small pricing decisions significant. Rising supplier costs, increasing import expenses and changing market conditions meant that much of the existing pricing structure needed revisiting.
 
 Rather than reviewing products individually, we assessed the range as a whole. A tool chest cannot simply be priced according to its cost and target margin. Its position within the range also needs consideration. Moving one product can create issues elsewhere, narrowing the gap between ranges, undermining premium propositions or creating inconsistencies in the customer offering.
