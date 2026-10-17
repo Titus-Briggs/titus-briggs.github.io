@@ -72,10 +72,6 @@ In its first few weeks, the kit generated approximately £15,000 in revenue, whi
 
 The product also attracted attention internally, with the CEO highlighting it as a strong example of what SGS does well. The Graphic Design team subsequently featured it in a Product Listing Page advert, as it showcased the breadth of our product offering while presenting a strong opportunity to cross-sell complementary products across the website.
 
-*Maybe cut this final paragraph*
-
-The project is a good example of the type of work I enjoy most: identifying opportunities, developing commercially viable propositions, and taking ownership of their execution from concept through to launch. While the positive internal recognition was gratifying, the strongest measure of success has been the product's early commercial performance, which validated the original opportunity and encouraged me to continue pursuing similar commercial initiatives.
-
 
 ## Merchandising
 
